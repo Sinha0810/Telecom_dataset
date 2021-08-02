@@ -3,8 +3,7 @@ Analyse client's behaviour and determine which prepaid plan brings in more reven
 
 **Project Description** | **Library Used** |
 --- | --- | 
-The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. Analyze client's behavior and determine which prepaid plan brings in more revenue.
- | Pandas, Numpy, Matplotlib, Stats| 
+The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. Analyze client's behavior and determine which prepaid plan brings in more revenue.| Pandas, Numpy, Matplotlib, Stats| 
 
 ## Description of the data:
 
